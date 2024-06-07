@@ -1,2 +1,1 @@
-# Lakosmetic
-Remake of  old knowledge
+# cosmetics
